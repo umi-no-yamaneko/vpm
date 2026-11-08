@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: /AmamiInstruments/index.json
+---
+{% include_relative index.json %}
